@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	piscine "testgo/kk"
+	"piscine"
 )
 
 func main() {
